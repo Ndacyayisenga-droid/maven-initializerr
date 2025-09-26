@@ -54,3 +54,4 @@ jobs:
       - name: Test Docker Compose
         run: |
           docker-compose build
+          
